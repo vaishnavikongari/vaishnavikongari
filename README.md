@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kongari</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **AI-Powered Bug Prediction System**
 
 - 📫 How to reach me **vaishnavimaharshi@gmail.com**
 
